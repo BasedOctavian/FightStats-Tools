@@ -6,7 +6,7 @@ import openai
 import pyttsx3
 import time
 
-openai.api_key = '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'
+openai.api_key = "key"
 
 
 #Sets Up The Voice
